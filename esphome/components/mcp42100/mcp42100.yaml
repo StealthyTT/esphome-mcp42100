@@ -1,0 +1,12 @@
+files:
+  - mcp42100.cpp
+  - mcp42100.h
+  - component.py
+  - __init__.py
+
+includes:
+  - mcp42100.h
+
+libraries: []
+
+platform: mcp42100
